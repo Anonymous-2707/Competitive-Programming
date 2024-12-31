@@ -1,6 +1,6 @@
 # Competitive-Programming
 
-Hi Everyone!👋
+Hello Everyone !!👋👋
 
 I'm **Mr.Anonymous**, a Computer Science Undergraduate at **IIT BHU, Varanasi**.
 
